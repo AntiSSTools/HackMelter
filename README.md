@@ -35,13 +35,17 @@
 ### 📁  〢 Setting Up
 
 > Disable your antivirus software (windows defender included)
+> 
 
 > Why do I need to disable?
 - We use **processes** like diagtrack, pcaclient, to disable all the cheats you might have installed.
 
 > Download the [**HackMelter.bat**](https://github.com/AntiSSTools/HackMelter/blob/main/HackMelter.bat)
+> 
 > Double click the batch file.
+> 
 > A window will pop up, asking for consent to delete the hacks, you must say **"y"** to continue.
+> 
 > The program will _automatically_ detect and DELETE.
 
 
@@ -53,9 +57,13 @@
 ### ⚔️ 〢 Features
 
 > Disables processes (diagtrack, pcaclient...).
+>
 > Scans for jars.
+> 
 > Scans for exes.
+> 
 > Deletes automatically
+> 
 > No log / traces!
 
 
@@ -66,8 +74,11 @@
 ### 📝 〢 Todo
 
 > - Echo bypass
+> - 
 > - Paladin SS bypass
+> - 
 > - More processes
+> - 
 > - Dynamic desencryption
 
 ---
