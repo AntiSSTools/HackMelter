@@ -74,11 +74,8 @@
 ### 📝 〢 Todo
 
 > - Echo bypass
-> - 
 > - Paladin SS bypass
-> - 
 > - More processes
-> - 
 > - Dynamic desencryption
 
 ---
