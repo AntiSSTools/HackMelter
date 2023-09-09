@@ -28,6 +28,7 @@
 
 - [📁 Setting up](#setup)
 - [⚔️ Features](#features)
+- [📷 Screenshots](#screenshots)
 - [📝 Todo](#todo)
 
 <a id="setup"></a>
@@ -69,6 +70,16 @@
 > Deletes automatically
 > 
 > No log / traces!
+
+
+<a id="screenshots"></a>
+
+---
+
+<img src="https://i.imgur.com/lHSErCd.mp4">
+<img src="https://i.imgur.com/5tCEt0X.jpg">
+
+
 
 
 <a id="todo"></a>
