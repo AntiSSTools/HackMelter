@@ -57,7 +57,7 @@
 
 ---
 
-### ⚔️ 〢 Features
+### ⚔️ 〢 Características
 
 > Evade el escaneo de Echo (programa de screenshare)
 >
@@ -84,7 +84,7 @@
 
 ---
 
-### 📝 〢 Todo
+### 📝 〢 Cosas que hacer
 
 > - ~~Echo bypass~~
 > - Paladin SS bypass
