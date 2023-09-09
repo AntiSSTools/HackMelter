@@ -20,7 +20,7 @@
 
 ---
 
-[🇬🇧 English](https://[google.es](https://github.com/AntiSSTools/HackMelter/README.md))    |    [⚡ Telegram](https://t.me/hackmelter)
+[🇬🇧 English](https://github.com/AntiSSTools/HackMelter/README.md)    |    [⚡ Telegram](https://t.me/hackmelter)
 
 ---
 
