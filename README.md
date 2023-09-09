@@ -18,9 +18,11 @@
 <img src="https://img.shields.io/github/forks/AntiSSTools/HackMelter?color=brightgreen">
 </p>
 
-<p align="center">
-  Telegram server: https://t.me/hackmelter
- </p>
+---
+
+‎[🇪🇸 Español](https://[google.es](https://github.com/AntiSSTools/HackMelter/README_ES.md))    |    [⚡ Telegram](https://t.me/hackmelter)
+
+---
 
 ## 🌐 〢 Content
 
@@ -56,6 +58,8 @@
 
 ### ⚔️ 〢 Features
 
+> BYPASSES ECHO SS TOOL
+>
 > Disables processes (diagtrack, pcaclient...).
 >
 > Scans for jars.
@@ -73,7 +77,7 @@
 
 ### 📝 〢 Todo
 
-> - Echo bypass
+> - ~~Echo bypass~~
 > - Paladin SS bypass
 > - More processes
 > - Dynamic desencryption
