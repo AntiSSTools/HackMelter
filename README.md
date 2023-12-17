@@ -24,6 +24,8 @@
 
 ---
 
+⚔️ Current version: v2.1.0
+
 ## 🌐 〢 Content
 
 - [📁 Setting up](#setup)
@@ -43,7 +45,8 @@
 > Why do I need to disable?
 - We use **processes** like diagtrack, pcaclient, to disable all the cheats you might have installed.
 
-> Download the [**HackMelter.bat**](https://github.com/AntiSSTools/HackMelter/blob/main/HackMelter.bat)
+> Download the [**Uni.bat**](https://github.com/AntiSSTools/HackMelter/blob/main/Uni.bat)
+> **DO NOT CHANGE THE NAME**
 > 
 > Double click the batch file.
 > 
@@ -70,6 +73,8 @@
 > Deletes automatically
 > 
 > No log / traces!
+>
+> Once you're done, reopen or hit control + L to unhide!
 
 
 <a id="screenshots"></a>
@@ -88,10 +93,15 @@
 
 ### 📝 〢 Todo
 
-> - ~~Echo bypass~~
-> - Paladin SS bypass
 > - More processes
-> - Dynamic desencryption
+> - GUI?
+> - Resell system
+> - Password cyphering
+> - Customization
+> - ~~Avenge bypass~~
+> - ~~Echo bypass~~
+> - ~~Paladin SS bypass~~
+> - ~~Dynamic desencryption~~
 
 ---
 
