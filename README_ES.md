@@ -24,6 +24,8 @@
 
 ---
 
+⚔️ Versión actual: v2.1.0
+
 ## 🌐 〢 Contenido
 
 - [📁 Instalación](#setup)
@@ -43,7 +45,8 @@
 > ¿Por qué necesito desactivarlo?
 - HackMelter usa **procesos** como diagtrack, pcaclient, BAM, para borrar y ocultar los hacks que tienes.
 
-> Descarga [**HackMelter.bat**](https://github.com/AntiSSTools/HackMelter/blob/main/HackMelter.bat)
+> Descarga el [**Uni.bat**](https://github.com/AntiSSTools/HackMelter/blob/main/Uni.bat)
+> **NO CAMBIES EL NOMBRE O TE DARÁ ERROR**
 > 
 > Haz doble click al archivo. Si no pasa nada, comprueba que tus antivirus estén desactivados y ejecuta como administrador.
 > 
@@ -60,6 +63,7 @@
 ### ⚔️ 〢 Características
 
 > Evade el escaneo de Echo (programa de screenshare)
+> Evade muchísimos programas más!
 >
 > Desactiva procesos (diagtrack, pcaclient...), para que no te pillen.
 >
@@ -70,7 +74,8 @@
 > Borra AUTOMATICAMENTE.
 > 
 > No hay registro / rastros!
-
+>
+> Una vez que hayas terminado, reabre hackmelter o presiona control + L y se desocultará!
 <a id="screenshots"></a>
 
 ---
@@ -86,10 +91,16 @@
 
 ### 📝 〢 Cosas que hacer
 
-> - ~~Echo bypass~~
-> - Paladin SS bypass
+
 > - Más procesos
-> - Desencriptación dinámica SHA512
+> - GUI?
+> - Systema de licencias/reventa
+> - Encriptado de contraseñas
+> - Customización
+> - ~~Avenge bypass~~
+> - ~~Echo bypass~~
+> - ~~Paladin SS bypass~~
+> - ~~Desencriptación dinámica SHA512~~
 
 ---
 
